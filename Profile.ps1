@@ -1,4 +1,4 @@
-#aggiorna le modifiche di questa cartella con --> . $PROFILE
+#Updates the changes in this folder with --> . $PROFILE
 
 Set-Alias -Name policy -Value Get-ExecutionPolicy
 
