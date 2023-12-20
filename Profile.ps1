@@ -27,7 +27,7 @@ function Get-MilestoneHardwareInfo {
     .NOTES
     The function requires the MilestonePSTools PowerShell module, which will be installed automatically if it is not already present. The module requires PowerShell version 5.1 or later.
     
-    Author: MrZepar
+    Author: Angelo S.
     Version: 1.0
     Date: May 1, 2023
     #>
