@@ -1,6 +1,7 @@
 # 🛠️ PowerShell Milestone Integration Profile
 
-Welcome to the PowerShell Milestone Integration Profile repository! This comprehensive PowerShell profile is designed to streamline various tasks associated with Milestone Recording Servers and devices. Dive into the details of this profile's functionalities below.
+Welcome to the PowerShell Milestone Integration Profile repository! This comprehensive PowerShell profile is designed to streamline various tasks associated with Milestone Recording Servers and devices. 
+Dive into the details of this profile's functionalities below.
 
 ## Profile Overview 📋
 
